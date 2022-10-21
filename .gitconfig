@@ -1,0 +1,13 @@
+# This is Git's per-user configuration file.
+[user]
+	name = andrewpdawes
+	email = EZu>^0ZVc3Q%?tE=)y%b
+# Please adapt and uncomment the following lines:
+	name = andrewpdawes
+	email = andrewpdawes@protonmail.com
+	name = andrewpdawes
+	email = andy.dawes@protonmail.com
+[color]
+	ui = true
+[core]
+	editor = nvim

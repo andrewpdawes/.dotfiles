@@ -1,0 +1,77 @@
+##=====================================================================
+## RSS News Feeds
+##=====================================================================
+
+# News ===============================================================
+
+## UK ------------------------------------------------------
+https://www.theguardian.com/politics/rss A.News
+https://www.theguardian.com/us-news/rss A.News
+
+## Opinion ============================================================
+http://www.private-eye.co.uk/rss/rss.php B.Opinion
+https://www.theguardian.com/uk/commentisfree/rss B.Opinion
+
+## Culture ============================================================
+https://www.theguardian.com/books/rss C.Culture
+https://www.theguardian.com/artanddesign/rss C.Culture
+https://www.theguardian.com/stage/rss C.Culture
+https://www.theguardian.com/music/classical-music-and-opera/rss C.Culture
+https://www.theguardian.com/tone/recipes/rss C.Culture
+
+## Games ==============================================================
+https://www.theguardian.com/games/rss D.Games
+http://feeds.feedburner.com/RockPaperShotgun D.Games
+http://feeds.feedburner.com/VideoGameDesigners D.Games
+http://game-wisdom.com/feed D.Games
+http://gamesfromwithin.com/ D.Games
+http://joostdevblog.blogspot.com/feeds/posts/default D.Games
+https://blog.agilegamedevelopment.com/feeds/posts/default D.Games
+https://frictionalgames.blogspot.com/feeds/posts/default D.Games
+https://ratking.de/blog/feed/spielgefaehrten/ D.Games
+http://www.alexhoratio.co.uk/feeds/posts/default D.Games
+http://gamedesignaspect.blogspot.com/feeds/posts/default D.Games
+https://askagamedev.tumblr.com/rss
+https://gamesfromscratch.com/feed/
+https://godotengine.org/qa/feed/questions.rss
+https://thisweekingodot.com/rss.xml
+
+## Technology =========================================================
+
+## Technology-linux ----------------------------------------
+http://www.manlug.org/?feed=rss2 "~Manlug.org" F.Technology-Linux
+
+## Technology-programming ----------------------------------
+
+## Technology-vim ------------------------------------------
+http://vimcasts.org/feeds/quicktime.rss H.Technology-vim
+http://tilvim.com/feed.xml H.Technology-vim
+https://www.reddit.com/r/vim.rss "~Reddit: r/vim" H.Technology-vim
+
+## Technology-emacs ----------------------------------------
+https://protesilaos.com/codelog.xml I.Technology-emacs
+
+## Youtube ============================================================
+
+
+## Sports =============================================================
+
+## Cycling ============================================================
+https://www.theguardian.com/sport/cycling/rss W.Sports
+
+## Rugby ---------------------------------------------------
+http://www.telegraph.co.uk/sport/rugbyunion/rss W.Sports
+https://www.theguardian.com/sport/rugby-union/rss
+
+## Chess ---------------------------------------------------
+http://www.telegraph.co.uk/culture/chess/rss W.Sports
+
+## Backpacking =========================================================
+http://blogpackinglight.wordpress.com/feed/ X.Backpacking
+http://www.christownsendoutdoors.com/feeds/posts/default?alt=rss X.Backpacking
+
+## Vegan ==============================================================
+http://theveganronin.wordpress.com/feed/ Y.Vegan
+http://www.cestlavegan.com/feed/ Y.Vegan
+http://epicureanvegan.com/feed/ Y.Vegan
+http://feeds.feedburner.com/blogspot/gmob Y.Vegan
