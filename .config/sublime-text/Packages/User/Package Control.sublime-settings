@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alabaster Color Scheme",
+		"Ascetic color schemes",
+		"Base16 Eighties Dark Color Scheme",
+		"Color Scheme - Eazy Light",
+		"Dimmed Color Scheme",
+		"GDScript (Godot Engine)",
+		"Light Lite Color Scheme",
+		"Materialize",
+		"Monokai Gray",
+		"Monokai++",
+		"Origami",
+		"Outline",
+		"Package Control",
+		"SideBarEnhancements",
+		"Terminus",
+		"Theme - Numix Light",
+		"Theme - Soda",
+		"Theme - SoDaReloaded",
+		"Theme - Sodarized",
+		"Theme - SodaSeti",
+		"Vintage-Origami",
+	],
+}

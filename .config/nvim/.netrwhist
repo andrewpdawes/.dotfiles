@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/heedypo/pCloudDrive/Repos/mardybumgames/Projects/AtmosphEric/scenes/hazards'
+let g:netrw_dirhist_1='/home/heedypo/pCloudDrive/Repos/mardybumgames/Projects/AtmosphEric/scenes'
+let g:netrw_dirhist_0='/home/heedypo/pCloudDrive/Repos/mardybumgames/Projects/AtmosphEric'
+let g:netrw_dirhist_9='/home/heedypo'
+let g:netrw_dirhist_8='/home/heedypo/pCloudDrive/Repos/mardybumgames/x.MyModularPlugins/GameTemplates/RPGTemplate/Scripts'
+let g:netrw_dirhist_7='/home/heedypo/pCloudDrive/Repos/mardybumgames/x.MyModularPlugins/GameTemplates/RPGTemplate'
+let g:netrw_dirhist_6='/home/heedypo/pCloudDrive/Repos/mardybumgames/x.MyModularPlugins/GameTemplates'
+let g:netrw_dirhist_5='/home/heedypo/pCloudDrive/Repos/mardybumgames/x.MyModularPlugins'
+let g:netrw_dirhist_4='/home/heedypo/pCloudDrive/Repos/mardybumgames'
+let g:netrw_dirhist_3='/home/heedypo/pCloudDrive/Repos'
